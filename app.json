@@ -1,8 +1,8 @@
 {
-  "name": "OWASP Juice Shop",
+  "name": "Juice Shop",
   "description": "An intentionally insecure Javascript Web Application",
-  "website": "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project",
-  "repository": "https://github.com/bkimminich/juice-shop",
+  "website": "https://www.avvmedia.ro",
+  "repository": "https://github.com/oviroman/disertatieiap2017",
   "logo": "https://raw.githubusercontent.com/bkimminich/juice-shop/master/app/public/images/JuiceShop_Logo.png",
   "keywords": [
     "web security",
