@@ -4,3 +4,6 @@ application:
   showCtfFlagsInNotifications: true
   showChallengeHints: false
   showGitHubRibbon: false
+  set NODE_ENV=ctf # on Windows
+  export NODE_ENV=ctf # on Linux
+  npm start
