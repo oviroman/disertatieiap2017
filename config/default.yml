@@ -7,8 +7,8 @@ application:
   favicon: "favicon_v2.ico"
   numberOfRandomFakeUsers: 0
   showChallengeSolvedNotifications: true
-  showCtfFlagsInNotifications: false
-  showGitHubRibbon: true
+  showCtfFlagsInNotifications: true
+  showGitHubRibbon: false
   showChallengeHints: true
   theme: "slate" # Options: cerulean  cosmo  cyborg  darkly  flatly lumen  paper  readable  sandstone  simplex  slate  spacelab  superhero  united  yeti
   twitterUrl: "https://twitter.com/owasp_juiceshop"
